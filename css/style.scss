@@ -708,3 +708,20 @@ a:focus {
 }
 
 /* end footer section*/
+
+/* Profile Page Css*/
+.profile_menu ul{
+  background-color: #333;
+  padding: 20px;
+  border-radius: 5px;
+}
+.profile_menu li{
+  list-style: none;
+  margin-bottom: 10px;
+  .profile_menu a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline from links */
+    text-align: left; /* Align text to the left */
+    display: block; /* Make the whole list item clickable */
+  }
+}

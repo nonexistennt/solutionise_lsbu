@@ -1,5 +1,5 @@
 <?php
-$to = "victorctin@gmail.com";
+$to = "johnxmith@anglernook.com";
 $subject = "Test Email";
 $message = "This is a test email from your PHP server.";
 $headers = "From: noreply@example.com\r\n";

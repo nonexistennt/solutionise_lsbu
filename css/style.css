@@ -244,6 +244,10 @@ a:focus {
   margin-left: auto;
   margin-right: auto;
 }
+.body_text {
+  text-align: left;
+  padding-left: 0;
+}
 
 .slider_section .detail-box h1 {
   font-size: 4rem;
